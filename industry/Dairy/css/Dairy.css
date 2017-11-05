@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+.container{width:100%; background:#c9c9ca; padding-bottom:30px; padding-top:60px;}
+.container .bg{width:1200px; margin:0 auto; position:relative; border-bottom:6px solid #a0ca40;}
+.bg .title{width:1184px; height:50px; line-height:50px; font-size:18px; color:#a0ca37; padding-left:16px; background:rgba(89,61,26,0.7); position:absolute; left:0px; top:250px;}
+.container .resume{width:1200px; margin:0 auto; margin-bottom:50px;}
+.resume>p{padding-top:30px; padding-bottom:30px; line-height:30px; font-size:18px; font-family:"微软雅黑"; color:#595757; background: url(../images/picture_03.jpg) no-repeat left bottom;}
+.resume .main{padding-left:30px; padding-right:30px; padding-top:32px; background:#ffffff;}
+.main  li h2{font-size:16px;  line-height:22px; color:#00443b; font-family:"微软雅黑";}
+.main li p{font-size:12px; line-height:20px; color:#717071; font-family:"微软雅黑"；}
+.main .one{padding-bottom:8px; border-bottom:1px solid #cfcfcf;}
+.main .one li{float:left; margin-right:40px; }
+.main .one li h2{width:320px;}
+.main .one li p{width:380px;}
+.main .two{padding-top:10px; padding-bottom:32px; border-bottom:1px solid #cfcfcf;}
+.main .two li{float:left; width:204px; margin-right:24px;}
+.main .two h2{ margin-bottom:16px; padding-left:30px; width:174px;}
+.main .two p{margin-bottom:25px;}
+.main h2{height:38px; line-height:38px; color:#00443b; font-size:16px; font-family:"微软雅黑"; width:570px;}
+.main .three{padding-left:25px; padding-right:30px; margin-bottom:44px;}
+.main .three li{float:left; margin-right:150px;}
+.main .three li p{width:97px; text-align:center;}
+.main .four{width:282px; padding-left:286px; background:url(../images/Image%20%5B20%5D.png) no-repeat left top; border-right:1px solid #cfcfcf; float:left; height:280px; border-bottom:1px solid #cfcfcf; margin-bottom:18px;}
+.main .four li{width:184px; padding-left:98px;}
+.main .four li span{line-height:20px; font-size:16px; color:#a0ca40;}
+.main .five{float:left; padding-left:14px; padding-bottom:68px; border-bottom:1px solid #cfcfcf; width:556px; margin-bottom:18px;}
+.main .five span{line-height:72px; font-size:28px; color:#333333; }
+.main .six{width:570px; float:left; padding-bottom:34px; border-bottom:1px solid #cfcfcf;}
+.main .six h2{font-size:16px;  line-height:22px; color:#00443b; font-family:"微软雅黑"; width:360px;}
+.main .seven{width:480px; float:left; padding-left:45px; padding-right:45px; position:relative; padding-bottom:117px; border-bottom:1px solid #cfcfcf;}
+.main .seven h2{font-size:16px;  line-height:22px; color:#00443b; font-family:"微软雅黑";}
+.main .seven li{float:left; margin-right:20px; margin-bottom:70px;}
+.main .seven h3{line-height:14px; font-size:12px; color:#333333; font-family:"微软雅黑";}
+.main .eight{padding-left:46px;}
+.main .eight li{width:210px; float:left; margin-right:63px;}
+.main .eight li img{padding-left:49px;}
+.main .eight li h3{font-size:12px; font-family:"微软雅黑"; line-height:20px; color:#00443b; text-align:center;}
+.container .end{margin:0 auto; width:1200px; border-top:1px solid #585858; border-bottom:1px solid #585858; position:relative;}
+.end h2{height:50px; font-size:16px; color:#71707e; font-family:"微软雅黑"}
+.end ul li{float:left; width:380px; margin-right:20px;}
+.end ul li p{line-height:30px; color:#717071; font-size:14px; font-family:"微软雅黑"}
+.end h3{position:absolute; left:1170px; top:-20px; width:50px; height:20px; line-height:20px; font-size:12px;}
+.end h3 a{color:#333333;}

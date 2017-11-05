@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body{background:#c9c9ca;}
+.main{width:1200px; margin:0 auto; border-bottom:4px solid #a0ca40; margin-bottom:27px; position:relative; padding-top:60px;}
+.main p{height:50px; line-height:50px; font-size:18px; color:#88be40; background:rgba(101,97,96,0.7); position:absolute; left:0; bottom:0; width:1185px; padding-left:15px;}
+.map{width:1165px; margin:0 auto; padding-left:35px; background:#fff; padding-bottom:48px; margin-bottom:77px;}
+.map>p,.map ul{float:left;}
+.map>p{padding-top:24px; padding-bottom:16px; background:url(../images/call-us_03.jpg) no-repeat 0 46px; margin-right:455px;}
+.map ul{ padding-top:13px;}
+.map ul li{float:left; width:290px;}
+.map ul li h2{height:30px; line-height:30px; font-size:12px; color:#00443b; margin-bottom:4px;}
+.map ul li p{ line-height:22px; font-size:12px; color:#717071;}
+

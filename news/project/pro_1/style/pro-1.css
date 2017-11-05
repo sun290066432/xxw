@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+body{width:100%; background:#c9c9ca;}
+.content{width:1200px; margin:0 auto; height:2760px;}
+.content h1{height:64px; line-height:32px; font-size:20px; padding-top:100px; font-family:"微软雅黑"; color:#595757; }
+.matter{background:#FFF; height:2200px; margin-top:30px; position:relative;}
+.matter span{position:absolute; top:-10px; left:-20px;}
+.matter p,.matter img{margin-left:20px; margin-right:32px;}
+.matter p{font-size:12px; font-family:"微软雅黑"; padding-bottom:20px; padding-top:20px; color:#333333; height:40px; line-height:20px;}
+.matter .pro-p{height:60px;}

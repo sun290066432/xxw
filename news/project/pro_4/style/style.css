@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+body{width:100%; background:#c9c9ca;}
+.content{width:1200px; margin:0 auto; height:2770px;}
+.content h1{height:64px; line-height:32px; font-size:20px; padding-top:100px; font-family:"微软雅黑"; color:#595757; }
+.matter{background:#FFF; height:2200px; margin-top:30px; position:relative;}
+.matter span{position:absolute; top:-10px; left:-20px;}
+.matter p,.matter img,.matter h1,.matter h2{margin-left:20px; margin-right:32px;}
+.matter p{font-size:12px; font-family:"宋体"; color:#333333; line-height:22px; padding-top:23px;}
+.matter p.p{padding-top:32px; padding-bottom:21px;}
+.matter h2{font-size:12px; font-family:"宋体"; color:#006400; height:66px; line-height:66px;}

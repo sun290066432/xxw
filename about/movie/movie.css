@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background:#c9c9ca;}
+.conter{ width:1200px; margin:0px auto;}
+.top{ padding:36px 0px 26px 0px; font-size:17px; color:#595757; font-family:"微软雅黑"; line-height:30px;}
+.found{ background:#fff; position:relative; margin-bottom:27px;}
+.found p{ width:503px; float:left;  padding:31px 0px 0px 18px; font-size:12px; font-family:"微软雅黑"; line-height:18px;}
+.found iframe{ width:509px; margin-left:32px; margin-right:18px; padding-top:30px; padding-bottom:97px;}
+.footer{ padding-top:3px; border-top:1px solid #585858; padding-bottom:9px; border-bottom:1px solid #585858; margin-bottom:43px;}
+.footer h5{ height:42px; line-height:42px; font-size:12px; color:#717071;}
+.footer a{ display:block; height:18px; line-height:18px; color:#717071;}

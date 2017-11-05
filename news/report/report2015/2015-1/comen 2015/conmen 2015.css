@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.down{ background:#c9c9ca;}
+.comen{ width:1200px; margin:30px auto;}
+.comen h2{ height:50px; line-height:50px; font-size:16px; color:#7e7071; border-top:1px solid #585858;}
+.comen li{ font-size:12px; height:20px; line-height:20px; color:#7e708c;}
+.comen ul{ padding-bottom:10px; border-bottom:1px solid #585858;}
+a:hover{ color:#f00;}
+a{color:#7e708c;font-size:12px;}

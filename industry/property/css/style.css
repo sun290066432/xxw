@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+ul,li{display:block;}
+ul{list-style:none;}
+.anli8 {
+	width: 1118px;
+	height: 200px;
+	
+}
+a{outline:0;}
+img{border:0;}
+.anli_fot {
+	width: 980px;
+	height: 7px;
+	background: url(../images/net2_07.jpg) no-repeat;
+	margin-bottom: 15px;
+}
+.infiniteCarousel {
+	width: 1140px;
+	position: relative;
+	height: 200px;
+	left: 0px;
+	top: 0px;
+}
+.infiniteCarousel .wrapper8 {
+	width: 865px;
+	height: 200px;
+	position: absolute;
+	top: -4px;
+	margin-left: 53px;
+	left: 14px;
+}
+.infiniteCarousel ul a img {
+	width: 178px;
+	height: 170px;
+	overflow: hidden;
+}
+.infiniteCarousel li {
+	text-align: center;
+	font-weight: normal;
+	font-size: 12px;
+	color: #333;
+	line-height: 26px;
+}
+.infiniteCarousel .wrapper8 ul {
+	width: 992px;
+	margin: 0;
+	position: absolute;
+	padding-top: 10px;
+	left: 14px;
+	top: 8px;
+}
+.infiniteCarousel .wrapper8 ul li {
+	display: block;
+	float: left;
+	width:178px;
+	height:170px;
+	margin-right:36px;
+	background:#FFF;
+	padding-top:15px; padding-bottom:15px;
+}
+.infiniteCarousel .arrow {
+	display: block;
+	/*	text-indent: -999px;*/
+	position: absolute;
+	top: 95px;
+	cursor: pointer;
+	z-index: 2000;
+}
+.infiniteCarousel .forward {
+	width: 46px;
+	height: 45px;
+	right: 9px;
+	background: url(../../index/images/dd_28.gif) no-repeat center middle;
+	/*	overflow: hidden;*/
+	z-index: 2000;
+}
+.infiniteCarousel .back {
+	width: 46px;
+	height: 45px;
+	background: url(../../index/images/dd_25.gif) no-repeat center middle;
+	left: 1px;
+}

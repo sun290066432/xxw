@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+.clearfix:after{display:block; height:0; content:''; clear:both;}
+ul,li,h1,h2,h3,img,p,label,dl,dd,dt{display:block;}
+a{text-decoration:none;}
+ul{list-style:none;}
+

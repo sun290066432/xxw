@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+a{text-decoration:none;}
+.navw{width:100%; background:#fff;height:60px;position:fixed;top:0;left:0; z-index:100;}
+.nav{width:1200px; margin:0 auto; padding-top:12px;}
+.nav>a,.nav ul,.nav p{float:left;}
+.nav>a{display:block; padding-left:5px; margin-right:48px;}
+.nav .navfirst{padding-top:4px;}
+.nav .navfirst>.dropdown{float:left; width:55px; height:30px; line-height:30px; padding-bottom:10px; margin-right:20px; position:relative;}
+.nav .navfirst>.dropdown a{font-size:12px; color:#595757;}
+.nav .navfirst>.dropdown:hover{border-bottom:6px solid #004935;}
+.nav .navfirst .dropdown ul{display:none; position:absolute; top:45px; left:0; background:#fff;}
+.nav .navfirst .dropdown ul .dropdownopen{ background:#fff; padding-top:7px; height:37px; line-height:37px;width:150px; border-bottom:1px solid #c9c9cb; padding-left:10px;}
+.nav .navfirst .dropdown:hover ul{display:block;}
+.nav .navfirst .dropdown ul .dropdownopen:hover{background:#c9c9ca;}
+.nav .navfirst .dropdown ul .dropdownopen:hover a{color:#fff;}
+.nav p{float:right; padding-top:10px;}
+.nav p a{display:inline-block; margin-right:12px;}

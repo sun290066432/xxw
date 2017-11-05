@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background:#c9c9ca;}
+.conter{ width:1200px; margin:0px auto;}
+.pic{ position:relative; border-bottom:#a0ca40 4px solid;}
+.pic p{
+	position:absolute;
+	width: 1200px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 18px;
+	font-family: "微软雅黑";
+	top:250px;
+	left:0px;
+	background:rgba(16,22,1,0.6);
+	color:#a0ca40;
+	text-indent:15px;
+}
+.tree{ line-height:30px; font-size:20px; font-family:"微软雅黑"; margin:30px auto; color:#595757;}
+.found p{ padding:16px 31px 34px 20px; background:#fff; line-height:22px; font-size:14px; font-family:"微软雅黑";}
+.found{ position:relative;}
+.found img{
+	position: absolute;
+	top: -10px;
+	left:0px;
+}
+.bignav ul{ margin-top:30px;}
+.bignav ul li{ width:380px; float:left; margin-right:30px; position:relative; border-bottom:3px solid #9cc947; margin-bottom:20px;}
+.bignav ul li p{
+	position: absolute;
+	line-height: 40px;
+	font-size: 16px;
+	background: rgba(255,255,255,0.7);
+	left: 0px;
+	top: 160px;
+	height:40px;
+	width:360px; font-family:"微软雅黑";  text-align:right; padding-right:20px;
+}
+.bignav ul li p .li{ display:block; float:left; width:300px; text-align:left; padding-left:25px;}
+.bignav ul li a{ color:#6f6f6f;}

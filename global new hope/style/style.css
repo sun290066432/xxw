@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.content{width:100%; background:#c9c9ca; height:1952px;}
+.content .pic{width:1200px; background:url(../images/xin.jpeg) no-repeat; padding-top:50px; margin:0 auto; height:300px; position:relative; border-bottom:4px solid #a0ca40;}
+.content .pic p{position:absolute; left:0; top:301px; background:rgba(105,108,108,0.9); font-family:"微软雅黑"; font-size:18px; color:#a0c357; width:1185px; height:50px; line-height:50px; padding-left:15px;}
+.content .text{height:62px; line-height:31px; font-size:20px; font-family:"微软雅黑"; color:#595770; width:1200px; margin:0 auto; margin-top:29px; margin-bottom:29px;}
+.content .matter{width:1200px; height:1448px; background:#fff; margin:0 auto; position:relative;}
+.content .matter span{position:absolute; top:-10px; left:0; margin-top:0;}
+.content .matter .main-top p,.content .matter .main-top img{float:left;}
+.content .matter .main-top p{width:368px; font-family:"微软雅黑"; font-size:12px; margin-bottom:19px; margin-top:21px; color:#333333; line-height:22px; height:176px;}
+.content .matter .main-top p.one{margin-left:20px; margin-right:35px;}
+.content .matter .main-top .img{float:right;width:383px; height:116px; margin-top:21px;}
+.content .resource a{display:block; margin-bottom:18px;}
+.content .resource img{width:1160px; height:290px; margin:0 auto; display:block;}

@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+body{background:#c9c9ca;}
+.banner{width:1200px; margin:0 auto;}
+.text{ line-height:30px; font-size:20px; color:#595757; width:1200px; margin:30px auto 27px auto; font-weight:100;}
+.main{width:1200px; margin:0 auto; background:#fff; position:relative; padding-top:20px;}
+.TabbedPanelsContent:frist-child{padding-top:10px; padding-left:14px; padding-right:15px;}
+.TabbedPanelsContent .left,.TabbedPanelsContent .mid,.TabbedPanelsContent .right{float:left; margin-bottom:20px;}
+.TabbedPanelsContent .left{width:365px; margin-right:20px;}
+.TabbedPanelsContent .left h1{height:30px; line-height:30px; font-size:16px; color:#00443b;}
+.TabbedPanelsContent .left p{ line-height:20px; font-size:12px; color:#333333;}
+.TabbedPanelsContent .mid{width:357px; margin-right:20px;}
+.TabbedPanelsContent .mid .us,.TabbedPanelsContent .right .px{background:#a0ca40; padding-top:15px; padding-left:10px; padding-right:10px;}
+.TabbedPanelsContent .mid .gl,.TabbedPanelsContent .right .xw{background:#00443b; padding-top:15px; padding-left:10px; padding-right:10px; padding-bottom:5px;}
+.TabbedPanelsContent .mid .gl h2,.TabbedPanelsContent .right .xw h2,.TabbedPanelsContent .mid .us h2,.TabbedPanelsContent .right .px h2{height:30px; line-height:30px; font-size:18px; color:#fff; margin-bottom:3px;}
+.TabbedPanelsContent .mid .gl b,.TabbedPanelsContent .right .xw b,.TabbedPanelsContent .mid .us b,.TabbedPanelsContent .right .px b{ display:block; height:22px; line-height:22px; color:#fff; font-size:14px;}
+.TabbedPanelsContent .mid .gl p,.TabbedPanelsContent .right .xw p,.TabbedPanelsContent .mid .us p,.TabbedPanelsContent .right .px p{ line-height:22px; color:#fff; font-size:14px; margin-bottom:20px;}
+.TabbedPanelsContent .right{width:357px;}
+.TabbedPanelsContent .right .xw{margin-bottom:20px;}
+.fd ul{padding-bottom:33px; border-bottom:1px solid #cfcfcf;}
+.fd ul li{float:left; margin-right:30px;}
+.fd ul li:nth-child(3){margin-right:0;}
+.fd{margin-bottom:12px;}
+.sea{padding-bottom:45px; border-bottom:1px solid #cfcfcf;}
+.sea h2{height:65px; line-height:65px; font-size:16px; color:#2f443b;}
+.lc{padding-bottom:52px; border-bottom:1px solid #cfcfcf; margin-bottom:22px;}
+.lc h2{height:65px; line-height:65px; font-size:16px; color:#2f443b;}
+.wath h2{height:43px; line-height:43px; font-size:16px; color:#00443b; margin-bottom:7px;}
+.wath h3{height:29px; line-height:29px; font-size:14px; color:#006834; margin-bottom:4px; font-weight:300;}
+.wath p{height:16px; line-height:16px; font-size:12px; color:#221814; padding-left:16px; margin-bottom:18px;}
+.wath p:last-child{margin-bottom:32px;}
+.wath span{display:block; padding-left:15px; margin-bottom:18px;}
+.weixin{padding-left:505px; margin-bottom:50px;}
+.over{text-align:center; height:63px; line-height:63px; font-size:14px; color:#000;}
+.TabbedPanelsContent:nth-child(2){ padding-left:20px; padding-right:20px;}
+.TabbedPanelsContent .fz{ padding-top:23px; padding-bottom:69px; border-bottom:1px solid #cfcfcf;}
+.TabbedPanelsContent .bj{padding-top:40px; background:url(../images/img_03.jpg) no-repeat 594px 35px; padding-bottom:56px; border-bottom:1px solid #cfcfcf;}
+.TabbedPanelsContent .bj h2,.TabbedPanelsContent .fz h2{height:44px; line-height:44px; font-size:16px; color:#00443b;}
+.TabbedPanelsContent .bj p,.TabbedPanelsContent .fz p{ line-height:22px; font-size:12px; color:#333333;}
+.TabbedPanelsContent .fz b{display:block; height:22px; line-height:22px; font-size:12px; color:#333333; float:left; width:68px;}
+.TabbedPanelsContent .fz p span{background:#c9c9ca; margin-left:10px;}
+.xju>h2{height:94px; line-height:94px; font-size:16px; color:#00443b;}
+.xju ul li{ float:left; width:272px; margin-right:10px; position:relative; margin-bottom:17px;}
+.xju ul li:nth-child(4),.xju ul li:nth-child(8){margin-right:0;}
+.xju ul li .jianjie{width:267px; padding-left:5px; background:#eceded; position:absolute; left:0px;bottom:0; padding-bottom:25px;}
+.xju ul li .jianjie h2{hieght:36px; line-height:36px; font-size:12px; color:#00443b;}
+.xju ul li .jianjie p{ line-height:24px; font-size:12px; color:#00443b;}
+.xju ul li>p{padding-left:3px; line-height:22px; font-size:12px; color:#fff; background:#a0ca40; display:none; position:absolute; left:0; top:0; z-index:56; height:100%; width:100%;}
+.xju ul li>p b{display:block; height:44px; line-height:44px; font-size:12px; color:#13401f;}
+.xju ul li:hover p{display:block;}
+.xju ul li:hover .jianjie{display:none;}
+.TabbedPanelsContent:nth-child(3){padding-top:30px; padding-left:20px;}
+.lianjie{padding-bottom:20px;}
+.lianjie h2{height:64px; line-height:64px; font-size:16px; color:#00443b;}
+.lianjie ul{padding-left:15px;}
+.lianjie ul li{float:left; margin-right:20px;}
+.lianjie ul li:last-child{margin-bottom:0;}
+.TabbedPanelsContent:last-child{padding-top:50px; padding-left:20px;}
+.xwzx,.imga{float:left;}
+.xwzx{width:676px;}
+.xwzx .shixi{padding-bottom:10px; border-bottom:3px solid #a1cb40; margin-bottom:4px;}
+.shixi h2{height:25px; line-height:25px; font-size:16px; color:#00443b;}
+.shixi p{ line-height:22px; font-size:12px; color:#333333;}
+.gw{ line-height:32px; font-size:12px; color:#333333; border-bottom:1px solid #cfcfcf;}
+.gw b{display:block; width:70px; float:left;}
+.gw span{background:#c9c9ca; color:#fff; margin-right:4px; padding-left:2px; padding-right:2px;}
+.ypyq{padding-bottom:30px;}
+.ypyq h2{height:26px; line-height:26px; font-size:16px; color:#00443b;}
+.ypyq ul li{height:22px; line-height:22px; font-size:12px; color:#333333; padding-left:15px; background:url(../images/dian_03.jpg) no-repeat 0 center;}
+.ypyq p{line-height:22px; font-size:12px; color:#333333; padding-left:15px;}
+.imga{padding-left: 210px;padding-top: 25px;}

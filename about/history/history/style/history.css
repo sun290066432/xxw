@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background:#c9c9ca;}
+.conter{ width:1200px; margin:0px auto;}
+body>.pic{ position:relative; border-bottom:#a0ca40 4px solid; margin-top:60px;}
+.pic p{
+	position:absolute;
+	width: 1200px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 18px;
+	font-family: "微软雅黑";
+	top:250px;
+	left:0px;
+	background:rgba(16,22,1,0.6);
+	color:#a0ca40;
+	text-indent:15px;
+}
+
+body>p{  line-height:30px; font-size:20px; padding:29px 0px 29px 0px; font-family:"微软雅黑"; color:#595757;}
+
+
+.found{ background:#fff; position:relative; width:1172px; padding:20px 13px 10px 15px; ;}
+
+<!---->
+.found .box>ul>li{ padding-left:16px; padding-bottom:100px; width:169px; padding-top:18px; line-height:32px; color:#595757; background:#eeefef; float:left; margin-right:10px;}
+.found .box>ul>li h5{ line-height:40px; height:40px; font-size:25px; font-family:"微软雅黑"; color:#595757;}
+.found .box>ul>li:hover h5{ color:#fff; cursor:pointer;}
+.found .box>ul>li:hover{ color:#fff;  cursor:pointer;}
+<!---->
+ h6{height:76px; line-height:76px; font-size:16px; color:#00443b; width:1000px; padding-left:20px;}
+ .mafan{background:#fff;}
+.mafan>img{ margin-left:37px; float:left;}
+.mafan .honor{ float:left; }
+ .mafan .honor .little{ width:405px; height:72px; margin-bottom:25px;background:#eeeeef;}
+  .mafan .honor .littles{ width:405px; height:72px; margin-bottom:25px;background:#eeeeef;}
+ .mafan .honor .little .tet{  font-size:12px; font-family:"微软雅黑"; color:#333; width:183px; padding-left:10px; background:#eeeeef; height:72px; line-height:72px; display:block; text-align:left; float:left;}
+ .mafan .honor .little .pic{ float:left; height:72px; display:block; width:188px; text-align:center;}
+ .mafan .honor .littles .tet{  font-size:12px; font-family:"微软雅黑"; color:#333; width:183px; padding-left:10px; background:#eeeeef; height:57px; padding-top:15px; display:block; text-align:left; float:left;}
+ .mafan .honor .littles .pic{ float:left; height:72px; display:block; width:188px; text-align:center;}
+.mafan .honor .more{ width:890px; height:72px; margin-bottom:25px;}
+.mafan .honor .more p{ width:404px; margin-right:10px;background:#eeeeef; float:left;}
+ .mafan .honor .more .tet{ width:183px; font-size:12px; font-family:"微软雅黑"; color:#333; padding-left:10px; background:#eeeeef; height:72px; line-height:72px; display:block; text-align:left; float:left;}
+ .mafan .honor .more .pic{ float:left; height:72px; display:block; width:188px; text-align:center;}
+
+
+
+
+
+.found .pic_2{ position:absolute; top:-10px; left:0px;}
+.go_top{ line-height:18px; padding-top:32px; font-size:12px; height:18px; text-align:right; border-bottom:1px solid #585858;}
+.go_top a{ color:#000;}
+h4{ height:50px; line-height:50px; font-size:16px; font-family:"微软雅黑"; color:#717071;}
+body>ul{  margin-bottom:47px;  border-bottom:1px solid #585858;}
+body>ul li{ width:278px; float:left; margin-right:30px;}
+body>ul li a{ color:#717071; height:30px; line-height:30px; font-size:16px; font-family:"微软雅黑";}

@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+.content{width:100%; background:#c9c9ca; }
+.content .pic{width:1200px; background:url(../images/xin.jpeg) no-repeat; padding-top:50px; margin:0 auto; height:300px; position:relative; border-bottom:4px solid #a0ca40;}
+.content .pic p{position:absolute; left:0; top:301px; background:rgba(105,108,108,0.7); font-family:"微软雅黑"; font-size:18px; color:#a0c357; width:1185px; height:50px; line-height:50px; padding-left:15px;}
+.content .text{height:31px; line-height:31px; font-size:20px; font-family:"微软雅黑"; color:#595770; width:1200px; margin:0 auto; margin-top:29px; margin-bottom:29px;}
+.content .matter{width:1200px; background:#fff; margin:0 auto; position:relative;}
+.content .matter span img{position:absolute; top:-10px; left:0; margin-top:0;}
+.content .matter .main-top{height:424px; border-bottom:1px solid #585858; width:1190px; margin:0 auto;}
+.content .matter .main-top h3{height:86px; width:764px; line-height:26px; font-size:16px; color:#00443b; padding-top:40px; padding-left:15px;}
+.content .matter .main-top h3 span{text-align:right; line-height:34px;}
+.content .matter .main-top ul li{float:left; width:368px; padding-left:15px; margin-top:22px;}
+.content .matter .main-top ul li:nth-child(2){padding-left:17px;}
+.content .matter .main-top ul li:last-child{padding-left:31px;}
+.content .matter .main-top ul li:last-child img,.content .matter .main-top ul li:last-child p{float:left;}
+.content .matter .main-top ul li:last-child img{padding-left:123px;}
+.content .matter .main-top ul li:last-child p{height:60px; line-height:30px; color:#00443b; font-size:14px; padding-left:10px;}
+.content .matter .main-top ul li:last-child p span{color:#333333; font-size:12px;}
+.content .matter .main-top p{line-height:22px; font-size:12px; color:#333;}
+.content .matter .main-mid{border-bottom:1px solid #585858; width:1190px; margin:0 auto;}
+.content .matter .main-mid li{float:left; width:366px; padding-left:15px; padding-bottom:60px;}
+.content .matter .main-mid li:first-child h4{height:36px; line-height:36px; color:#00443b; border-top:5px solid #00443b; padding-top:10px; margin-top:120px; font-size:12px;}
+.content .matter .main-mid li:nth-child(2) h4{height:36px; padding-left:30px; padding-right:30px; line-height:36px; color:#009139; border-top:5px solid #009139; padding-top:10px; margin-top:70px; font-size:12px;}
+.content .matter .main-mid li:last-child h4{height:36px; line-height:36px; color:#a0ca40; border-top:5px solid #a0ca40; padding-top:10px; margin-top:20px; font-size:12px;}
+
+.jry-model-desc{width:366px; font-size:12px; line-height:22px; height:81px; overflow:hidden;}
+.txt-more{width:39px; height:28px; cursor:pointer; margin-bottom:50px; margin-left:140px; display:block; background:url(../image/soix1.jpg) no-repeat;}
+.open{background:url(../image/soix2.jpg) no-repeat;}
+
+
+
+
+
+
+
+
+
+
+
+
+.content .about{ position:relative; margin-top:50px;  width:1200px; margin:0 auto; height:226px;}
+.content .about h4{ padding-top:12px;}
+.content .about .top{
+	position: absolute;
+	left: 1167px;
+	top: 1px;
+}
+.content .about .csr{ position:absolute;}
+.content .about .gongyi{ position:absolute;} 
+.content .about ul li{float:left; margin-right:20px; width:281px;}

@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background:#c9c9ca;}
+.conter{ width:1200px; margin:0px auto;}
+.pic{ position:relative; border-bottom:#a0ca40 4px solid; margin-bottom:50px;}
+.pic p{
+	position:absolute;
+	width: 1200px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 18px;
+	font-family: "微软雅黑";
+	top:250px;
+	left:0px;
+	background:rgba(16,22,1,0.6);
+	color:#a0ca40;
+	text-indent:15px;
+}
+
+
+.found{ background:#fff; position:relative; padding:21px 0px 32px 0px;}
+.found .top{ padding:0px 20px 44px 20px; border-bottom:1px solid #cfcfcf;}
+.found .top .left,.found .top .mid{ width:337px; margin-right:35px; float:left;}
+.found .top .right{ float:left; padding-top:5px;}
+.found .top .left p,.found .top .mid p{ line-height:22px; font-size:12px; font-family:"微软雅黑"; margin-bottom:22px;}
+.found .buttom{ margin-top:36px; padding-left:20px;}
+.found .buttom .left{ width:367px; float:left; margin-right:30px;}
+.found .buttom .right{ width:367px; float:left;}
+.found .buttom .right h5{ line-height:26px; font-size:22px; font-family:"微软雅黑"; height:26px; color:#717071;}
+.found .buttom .right p{ height:36px; line-height:20px; width:82px; font-family:"微软雅黑"; color:#333;}
+.found .pic_2{ position:absolute; top:-10px; left:0px;}
+
+.go_top{ line-height:18px; padding-top:32px; font-size:12px; height:18px; text-align:right; border-bottom:1px solid #585858;}
+.go_top a{ color:#000;}
+h4{ height:50px; line-height:50px; font-size:16px; font-family:"微软雅黑"; color:#717071;}
+ul{  margin-bottom:47px; }
+ul li{ width:278px; float:left; margin-right:30px;}
+ul li a{ color:#717071; height:30px; line-height:30px; font-size:16px; font-family:"微软雅黑";}
+

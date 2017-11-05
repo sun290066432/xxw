@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.one,.two,.three,.four,.five,.six{ background:#fff; margin:0px auto; margin-bottom:10px; display:none; }
+.one ul li p{ height:120px; color:#717071; font-size:12px; font-family:"微软雅黑";}
+.one ul li{text-align:left; width:264px; background:#eeefef; height:230px; padding-left:26px; padding-top:30px; float:left;}
+.two{height:280px; width:320px;   }
+.one,.three,.two,.four,.five,.six{width:100%; padding-top:10px;}
+.three ul li,.two ul li,.four ul li,.five ul li,.six ul li{text-align:left; width:264px; background:#eeefef; height:218px; padding-left:26px; padding-top:30px; float:left;}
+.three ul li p,.two ul li p,.four ul li p,.five ul li p,.six ul li p{ height:96px; color:#717071; font-size:12px; font-family:"微软雅黑";} 
+

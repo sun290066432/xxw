@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background:#c9c9ca; padding-top:30px;}
+.pic{ width:1200px; margin:30px auto;}
+.secnav{ width:1200px; margin:0 auto;}
+.secnav li{ float:left;}
+.secnav .write{ float:left; margin-right:22px;}
+.secnav .year{float:left; margin-left:680px;}
+.secnav .write li{width:61px; height:28px; line-height:28px; margin-right:22px; padding-bottom:10px;}
+.secnav .write li a{font-size:14px; font-family:"微软雅黑"; color:#595757; display:block; float:left;padding-bottom:10px; font-weight:bold;}
+.secnav .write li a:hover{color:#f00; }
+.secnav .year li{width:38px; height:28px; line-height:28px; margin-right:22px; padding-bottom:10px;}
+.secnav .year li a{font-size:14px; font-family:"微软雅黑"; color:#595757; display:block; float:left;padding-bottom:10px;font-weight:bold;}
+.secnav .year li a:hover{color:#f00; }
+.main{
+	width: 1200px;
+	background: #fff;
+	margin: 0px auto;
+	padding-top: 20px;
+	margin-top:3px;
+	margin-bottom:20px;
+}
+.main ul{ padding-left:35px;}
+.main ul li{width:260px; margin-right:30px; float:left; margin-bottom:35px;}
+.main ul li h5{height:35px; line-height:35px; font-size:16px; color:#00443b;}
+.main ul li p a{ height:93px; font-size:14px; color:#717071; display:block;}
+.main ul li p  span { display:block; margin-bottom:12px; font-weight:bold;}
+.main ul li p a:hover{ color:#f00;}
+.main>p{width:1130px; margin-left:35px; border-top:1px solid #000; height:32px; line-height:32px;}
+.main>p a{ display:block; margin-right:10px; float:left; color:#717071;}
+.main>p a:hover{color:#00443b;}
